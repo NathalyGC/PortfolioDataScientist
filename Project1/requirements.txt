@@ -2,3 +2,4 @@ matplotlib
 plotly
 seaborn
 nbformat
+kaleido
