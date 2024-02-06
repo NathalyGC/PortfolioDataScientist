@@ -1,0 +1,7 @@
+matplotlib
+plotly
+seaborn
+scikit-learn
+imblearn
+#kaleido
+#nbformat
