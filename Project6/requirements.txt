@@ -1,0 +1,9 @@
+matplotlib
+pandas
+plotly
+seaborn
+scikit-learn
+openpyxl
+#imblearn
+kaleido
+nbformat
